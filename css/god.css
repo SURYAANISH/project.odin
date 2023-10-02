@@ -1,0 +1,188 @@
+nav{
+    width: 95%;
+}
+.head h1{
+    font-size: 50px;
+    font-weight: 400;
+    width: 100%;
+}
+.head p{
+    font-size: 18px;
+    width: 70%;
+
+}
+.work{
+    background-color: #f1ecec38;
+}
+.work .row{
+    width: 90%;
+}
+.work1 p{
+    font-size: 15px;
+}
+.learn{
+    /* background-color:rgb(243 244 246/var(--tw-bg-opacity)); */
+    background-color:#f3f4f6;
+}
+.learn1{
+    width: 83%;
+}
+.sto{
+    background:linear-gradient(#fff,#f3f4f6) ;
+    
+}
+.sto .row{
+    width: 80%;
+}
+.iimg1 img{
+    width: 100%;
+}
+.iimg1{
+    width: 150px;
+}
+.iimg12 img{
+    width: 100%;
+}
+.iimg12{
+    width: 160px;
+}
+.iimg13 img{
+    width: 100%;
+}
+.iimg13{
+    width: 170px;
+
+}
+.iimg14 img{
+    width: 100%;
+    
+}
+.iimg14{
+    width: 150px;
+}
+.foot .row{
+    width: 80%;
+}
+.all{
+    background-color: #f3f4f6;
+
+}
+.all11{
+    background-color: #f3f4f6;
+
+}
+.allll{
+    width: 88%;
+}
+.bu{
+    padding-top: 35px ;
+}
+.coo{
+    width: 48%;
+}
+.ru p{
+    text-align: justify;
+}
+.wi1{
+    width: 90%;
+}
+.alla{
+    background-color: #f9fafb;
+
+}
+.alla .row{
+    width: 60%;
+}
+.all11 .row{
+    width: 80%;
+
+}
+.fon{
+    font-size: 12px;
+}
+.paa{
+    height: 100%;
+}
+
+.paa1 p{
+    font-size: 10px;    
+}
+.all1{
+    background-color: #f3f4f6;
+
+}
+.all1 .row{
+    width: 90%;
+}
+.alla1{
+    background-color: #f9fafb;
+
+}
+.alla1 .asd{
+    
+    width: 400px;
+}
+.form-label{
+    font-size: 12px;
+}
+.form-check-label {
+    font-size: 12px;
+}
+.fo{
+    font-size: 12px;
+}
+@media (min-width:300px) and (max-width:575.98px){
+    .head h1{
+        font-size: 30px;
+        font-weight: 500;
+        width: 100%;
+    }
+    nav{
+        width: 85%;
+    }
+    .coo{
+        width: 100%;
+    }
+    .alla .row{
+        width: 100%;
+    }
+    .all1 .row{
+        width: 100%;
+    }
+    .all11 .row{
+        width: 100%;
+    
+    }
+
+}
+@media (min-width:400px) and (max-width:767.98px){
+    .alla1{
+        background-color: #f9fafb;
+        padding-left:50px;
+        padding-right: 50px;
+    }
+    .fo{
+        font-size: 10px;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    .alla1{
+        background-color: #f9fafb;
+        padding-left:50px;
+        padding-right: 50px;
+    }
+    .fo{
+        font-size: 10px;
+    }
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    .alla1{
+        background-color: #f9fafb;
+        
+    }
+
+    
+    .fo{
+        font-size: 10px;
+    }
+}
